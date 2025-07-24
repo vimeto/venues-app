@@ -1,0 +1,20 @@
+# This is a CODEOWNERS file
+# Each line is a file pattern followed by one or more owners.
+
+# Default owner for everything in the repo
+* @vimeto
+
+# Frontend components
+/src/components/ @vimeto
+/src/contexts/ @vimeto
+
+# Configuration files
+/.github/ @vimeto
+/package.json @vimeto
+/pnpm-lock.yaml @vimeto
+/tsconfig.json @vimeto
+/vite.config.ts @vimeto
+
+# Documentation
+/*.md @vimeto
+/docs/ @vimeto

@@ -91,6 +91,12 @@ The built files will be in the `dist` directory.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
+### Security
+
+- Dependencies are automatically updated via Dependabot
+- Security vulnerabilities should be reported to vilhelm.toivonen@helsinki.fi
+- See our [Security Policy](.github/SECURITY.md) for more details
+
 ## License
 
 This project is open source and available under the MIT License.
