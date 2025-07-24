@@ -32,8 +32,8 @@ A beautiful, responsive web application for tracking upcoming machine learning r
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/venues_app.git
-cd venues_app
+git clone https://github.com/vimeto/venues-app.git
+cd venues-app
 ```
 
 2. Install dependencies:

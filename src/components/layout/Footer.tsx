@@ -33,7 +33,7 @@ export const Footer: React.FC = () => {
                 variant="outline"
                 size="sm"
                 className="flex items-center gap-2 hover:bg-accent transition-all hover:scale-105"
-                onClick={() => window.open('https://github.com/yourusername/venues_app', '_blank')}
+                onClick={() => window.open('https://github.com/vimeto/venues-app', '_blank')}
               >
                 <CodeBracketIcon className="h-4 w-4" />
                 GitHub
@@ -42,7 +42,7 @@ export const Footer: React.FC = () => {
                 variant="outline"
                 size="sm"
                 className="flex items-center gap-2 hover:bg-accent transition-all hover:scale-105"
-                onClick={() => window.open('https://github.com/yourusername/venues_app/issues/new', '_blank')}
+                onClick={() => window.open('https://github.com/vimeto/venues-app/issues/new', '_blank')}
               >
                 <HeartIcon className="h-4 w-4" />
                 Report Issue

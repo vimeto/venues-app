@@ -35,7 +35,7 @@ export const Header: React.FC = () => {
                 variant="ghost"
                 size="sm"
                 className="hidden md:flex items-center gap-2 hover:bg-white/10 dark:hover:bg-white/5 border border-white/10 backdrop-blur-sm transition-all hover:scale-105"
-                onClick={() => window.open('https://github.com/yourusername/venues_app', '_blank')}
+                onClick={() => window.open('https://github.com/vimeto/venues-app', '_blank')}
               >
                 <CodeBracketIcon className="h-4 w-4" />
                 <span className="font-medium">Contribute</span>
