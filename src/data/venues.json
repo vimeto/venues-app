@@ -1,0 +1,167 @@
+[
+  {
+    "id": "aaai-26",
+    "name": "AAAI‑26",
+    "url": "https://aaai.org/conference/aaai/aaai-26/",
+    "jufo": 3,
+    "abstractDue": "Jul 25 2025",
+    "paperDue": "Aug 1 2025",
+    "notifications": "Nov 3 2025",
+    "confDates": "Jan 20–27 2026",
+    "summary": "Flagship broad AI venue (theory→applications); very competitive single‑track feel."
+  },
+  {
+    "id": "icml-2026",
+    "name": "ICML (2026 TBA)",
+    "url": "https://icml.cc/",
+    "jufo": 3,
+    "abstractDue": "Jan (est.)",
+    "paperDue": "Jan (est.)",
+    "notifications": "May (est.)",
+    "confDates": "Jul 13–19 2025",
+    "summary": "Top ML theory/algorithms venue; 2026 dates not posted—months inferred from 2025."
+  },
+  {
+    "id": "iclr-2026",
+    "name": "ICLR 2026",
+    "url": "https://iclr.cc/Conferences/2026/Dates",
+    "jufo": 3,
+    "abstractDue": "Sept 19 2025",
+    "paperDue": "Sept 24 2025",
+    "notifications": "Jan 22 2026",
+    "confDates": "TBA 2026",
+    "summary": "Premier deep/representation learning conf.; open review, fast cycle."
+  },
+  {
+    "id": "mobicom-2025",
+    "name": "MobiCom 2025 (2026 TBA)",
+    "url": "https://www.sigmobile.org/mobicom/2025/",
+    "jufo": 3,
+    "abstractDue": "Aug / Mar (est.)",
+    "paperDue": "Sept / Mar (est.)",
+    "notifications": "Oct / May (est.)",
+    "confDates": "Nov 4–8 2025",
+    "summary": "Flagship mobile computing/networking venue; two cycles per year."
+  },
+  {
+    "id": "mobisys-2025",
+    "name": "MobiSys 2025 (2026 TBA)",
+    "url": "https://www.sigmobile.org/mobisys/2025/",
+    "jufo": 3,
+    "abstractDue": "Dec (est.)",
+    "paperDue": "Dec (est.)",
+    "notifications": "Mar (est.)",
+    "confDates": "Jun 23–27 2025",
+    "summary": "Leading mobile systems/applications venue; heavy on real-device evaluation."
+  },
+  {
+    "id": "sensys-2026",
+    "name": "SenSys 2026",
+    "url": "https://sensys.acm.org/2026/",
+    "jufo": 2,
+    "abstractDue": "Jul 1 2025 / Nov 6 2025",
+    "paperDue": "Jul 1 2025 / Nov 13 2025",
+    "notifications": "Sep 21 2025 / Jan 29 2026",
+    "confDates": "May 11–14 2026",
+    "summary": "New merged ACM/IEEE sensing & embedded AI systems venue; two rounds."
+  },
+  {
+    "id": "asplos-2026",
+    "name": "ASPLOS 2026",
+    "url": "https://www.asplos-conference.org/asplos2026/cfp/",
+    "jufo": 3,
+    "abstractDue": "Mar 5 2025 / Aug 13 2025",
+    "paperDue": "Mar 12 2025 / Aug 20 2025",
+    "notifications": "Jun 24 2025 / Nov 24 2025",
+    "confDates": "Mar 22–26 2026",
+    "summary": "Cross‑disciplinary (arch/PL/OS) systems venue; dual deadlines."
+  },
+  {
+    "id": "osdi-26",
+    "name": "OSDI '26",
+    "url": "https://www.usenix.org/conference/osdi26/call-for-papers",
+    "jufo": 3,
+    "abstractDue": "Dec 4 2025",
+    "paperDue": "Dec 11 2025",
+    "notifications": "Mar 26 2026",
+    "confDates": "Jul 13–15 2026",
+    "summary": "USENIX's premier OS & systems design/impl. symposium."
+  },
+  {
+    "id": "eurosys-2026",
+    "name": "EuroSys 2026",
+    "url": "https://2026.eurosys.org/cfp.html#calls",
+    "jufo": 2,
+    "abstractDue": "May 8 2025 / Sept 18 2025",
+    "paperDue": "May 15 2025 / Sept 25 2025",
+    "notifications": "Aug 22 2025 / Jan 30 2026",
+    "confDates": "Apr 13–16 2026",
+    "summary": "Leading European systems conference; spring & fall deadlines."
+  },
+  {
+    "id": "isca-2025",
+    "name": "ISCA 2025 (2026 TBA)",
+    "url": "https://www.iscaconf.org/isca2025/submit/papers.php",
+    "jufo": 3,
+    "abstractDue": "Nov (est.)",
+    "paperDue": "Nov (est.)",
+    "notifications": "Mar (est.)",
+    "confDates": "Jun 21–25 2025",
+    "summary": "Top computer architecture venue; months from 2025 cycle."
+  },
+  {
+    "id": "micro-2025",
+    "name": "MICRO 2025 (2026 TBA)",
+    "url": "https://www.microarch.org/micro58/",
+    "jufo": 3,
+    "abstractDue": "Apr (est.)",
+    "paperDue": "Apr (est.)",
+    "notifications": "Jul (est.)",
+    "confDates": "Oct 18–22 2025",
+    "summary": "Premier microarchitecture/compiler/HW–SW interface conf."
+  },
+  {
+    "id": "hpca-2026",
+    "name": "HPCA 2026",
+    "url": "https://hpca-conf.org/2026/",
+    "jufo": 3,
+    "abstractDue": "Jul 25 2025",
+    "paperDue": "Aug 1 2025",
+    "notifications": "Nov 7 2025",
+    "confDates": "Jan 31–Feb 4 2026",
+    "summary": "IEEE high‑performance computer architecture symposium."
+  },
+  {
+    "id": "sigmetrics-2026",
+    "name": "SIGMETRICS 2026",
+    "url": "https://www.sigmetrics.org/sigmetrics2026/call_for_papers.html",
+    "jufo": 2,
+    "abstractDue": "Jul 22 / Oct 7 2025 / Jan 6 2026",
+    "paperDue": "Jul 29 / Oct 14 2025 / Jan 13 2026",
+    "notifications": "Sep 26 / Dec 12 2025 / Mar 13 2026",
+    "confDates": "Jun 8–12 2026",
+    "summary": "Flagship performance measurement/analysis venue (papers in POMACS)."
+  },
+  {
+    "id": "usenix-atc-25",
+    "name": "USENIX ATC '25 (2026 TBA)",
+    "url": "https://www.usenix.org/conference/atc25/call-for-papers",
+    "jufo": 2,
+    "abstractDue": "Jan (est.)",
+    "paperDue": "Jan (est.)",
+    "notifications": "Apr (est.)",
+    "confDates": "Jul 7–9 2025",
+    "summary": "Broad practical systems venue; months inferred from 2025."
+  },
+  {
+    "id": "neurips-2025",
+    "name": "NeurIPS 2025 (2026 TBA)",
+    "url": "https://neurips.cc/Conferences/2025/CallForPapers",
+    "jufo": 3,
+    "abstractDue": "May (est.)",
+    "paperDue": "May (est.)",
+    "notifications": "Sep (est.)",
+    "confDates": "Dec 2–7 2025",
+    "summary": "Top ML/AI conf. spanning DL, neuroscience, optimization; 2026 months inferred."
+  }
+]
