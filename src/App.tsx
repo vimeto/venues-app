@@ -7,7 +7,7 @@ import { VenueTable } from './components/venues/VenueTable';
 function App() {
   return (
     <AppProvider>
-      <div className="min-h-screen bg-gradient-to-br from-gray-50 via-white to-gray-50 dark:from-gray-950 dark:via-background dark:to-gray-950 flex flex-col relative">
+      <div className="min-h-screen bg-linear-to-br from-gray-50 via-white to-gray-50 dark:from-gray-950 dark:via-background dark:to-gray-950 flex flex-col relative">
         {/* Background gradient mesh */}
         <div className="fixed inset-0 gradient-mesh opacity-40 pointer-events-none" />
 
@@ -25,7 +25,7 @@ function App() {
               <VenueFilters />
             </aside>
             <section className="lg:col-span-3 animate-slide-up" style={{ animationDelay: '0.2s' }}>
-              <div className="bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-800 rounded-xl overflow-hidden shadow-sm">
+              <div className="bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-800 rounded-xl overflow-hidden shadow-xs">
                 <VenueTable />
               </div>
             </section>

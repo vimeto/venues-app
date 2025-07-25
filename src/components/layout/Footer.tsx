@@ -54,7 +54,7 @@ export const Footer: React.FC = () => {
         <div className="mt-8 pt-6 border-t border-white/10">
           <p className="text-center text-xs text-muted-foreground">
             © {new Date().getFullYear()} ML Venues. Built with{' '}
-            <span className="bg-gradient-to-r from-primary to-violet-600 bg-clip-text text-transparent font-semibold">♥</span> for the ML research community.
+            <span className="bg-linear-to-r from-primary to-violet-600 bg-clip-text text-transparent font-semibold">♥</span> for the ML research community.
           </p>
         </div>
       </div>

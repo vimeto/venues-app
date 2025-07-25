@@ -17,10 +17,10 @@ export const VenueFilters: React.FC = () => {
   return (
     <div className="glass glass-border glass-shadow rounded-xl space-y-6 p-6">
         <div className="flex items-center gap-2 mb-4">
-        <div className="p-2 rounded-lg bg-primary/10 backdrop-blur-sm">
+        <div className="p-2 rounded-lg bg-primary/10 backdrop-blur-xs">
           <FunnelIcon className="h-5 w-5 text-primary" />
         </div>
-        <h2 className="font-semibold text-lg bg-gradient-to-r from-primary to-violet-600 bg-clip-text text-transparent">
+        <h2 className="font-semibold text-lg bg-linear-to-r from-primary to-violet-600 bg-clip-text text-transparent">
           Filters
         </h2>
       </div>
@@ -37,7 +37,7 @@ export const VenueFilters: React.FC = () => {
             placeholder="Search by name or summary..."
             value={filters.searchQuery}
             onChange={(e) => setFilters({ ...filters, searchQuery: e.target.value })}
-            className="transition-all focus:ring-2 focus:ring-primary/30 bg-white/50 dark:bg-white/5 backdrop-blur-sm"
+            className="transition-all focus:ring-2 focus:ring-primary/30 bg-white/50 dark:bg-white/5 backdrop-blur-xs"
           />
         </div>
       </div>

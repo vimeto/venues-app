@@ -20,7 +20,7 @@ export const Header: React.FC = () => {
               </div>
               <div>
                 <h1 className="text-2xl md:text-3xl font-bold tracking-tight">
-                  <span className="bg-gradient-to-r from-primary via-violet-600 to-indigo-600 bg-clip-text text-transparent">
+                  <span className="bg-linear-to-r from-primary via-violet-600 to-indigo-600 bg-clip-text text-transparent">
                     ML Venues
                   </span>
                 </h1>
@@ -34,7 +34,7 @@ export const Header: React.FC = () => {
               <Button
                 variant="ghost"
                 size="sm"
-                className="hidden md:flex items-center gap-2 hover:bg-white/10 dark:hover:bg-white/5 border border-white/10 backdrop-blur-sm transition-all hover:scale-105"
+                className="hidden md:flex items-center gap-2 hover:bg-white/10 dark:hover:bg-white/5 border border-white/10 backdrop-blur-xs transition-all hover:scale-105"
                 onClick={() => window.open('https://github.com/vimeto/venues-app', '_blank')}
               >
                 <CodeBracketIcon className="h-4 w-4" />
@@ -45,7 +45,7 @@ export const Header: React.FC = () => {
                 size="icon"
                 onClick={toggleTheme}
                 aria-label="Toggle theme"
-                className="hover:bg-white/10 dark:hover:bg-white/5 border border-white/10 backdrop-blur-sm transition-all hover:scale-105 hover:rotate-12"
+                className="hover:bg-white/10 dark:hover:bg-white/5 border border-white/10 backdrop-blur-xs transition-all hover:scale-105 hover:rotate-12"
               >
                 {theme === 'light' ? (
                   <MoonIcon className="h-5 w-5" />

@@ -56,7 +56,7 @@ export const VenueTable: React.FC = () => {
             switch(level) {
               case 3:
                 return {
-                  container: 'bg-gradient-to-br from-jufo-3/20 to-jufo-3/10 border-jufo-3/30',
+                  container: 'bg-linear-to-br from-jufo-3/20 to-jufo-3/10 border-jufo-3/30',
                   text: 'text-jufo-3',
                   label: 'Highest Level',
                   stars: 3,
@@ -64,7 +64,7 @@ export const VenueTable: React.FC = () => {
                 };
               case 2:
                 return {
-                  container: 'bg-gradient-to-br from-jufo-2/20 to-jufo-2/10 border-jufo-2/30',
+                  container: 'bg-linear-to-br from-jufo-2/20 to-jufo-2/10 border-jufo-2/30',
                   text: 'text-jufo-2',
                   label: 'Leading Level',
                   stars: 2,
@@ -72,7 +72,7 @@ export const VenueTable: React.FC = () => {
                 };
               default:
                 return {
-                  container: 'bg-gradient-to-br from-jufo-1/20 to-jufo-1/10 border-jufo-1/30',
+                  container: 'bg-linear-to-br from-jufo-1/20 to-jufo-1/10 border-jufo-1/30',
                   text: 'text-jufo-1',
                   label: 'Basic Level',
                   stars: 1,
